@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.fran"
+    },
+    "jhipsterVersion": "6.3.1",
+    "applicationType": "microservice",
+    "baseName": "brainmap",
+    "packageName": "com.fran",
+    "packageFolder": "com/fran",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "caffeine",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NWU1NWI0MjA0ZGViODdlNTRiODY2MmNjMjI1OThmYTVhMmEzMTFmNzAwNGZiMmUwYmI1NjgxNmRmNWQwYjllMTYxNTlhNmFjZmVhZWZmNjQ0ZWYwZGMxYWYxMGY1YmU1ODU2NDA4ZGY2Njc4NzdjMGZhMTNiOTQzZTUxZTA3OTA=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
